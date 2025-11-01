@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Gizli yerel veritabanı ayarlarını gizle
+src/main/resources/application-local.properties
