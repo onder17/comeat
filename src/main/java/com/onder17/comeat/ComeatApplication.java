@@ -1,0 +1,13 @@
+package com.onder17.comeat;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ComeatApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ComeatApplication.class, args);
+	}
+
+}
